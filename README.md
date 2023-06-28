@@ -1,4 +1,19 @@
-javascript for beginners
+## momentum clone
+Vanilla JS, CSS, HTML 를 사용한 Momentum App 만들기
+- css
+    - style.css
+- img
+    - XX.jpg : 랜덤 배경에 사용되는 이미지
+- js
+    - greeting.js : 로그인, 사용자 이름 입력 및 localStorage 저장/불러오기
+    - clock.js : interval 로 현재 시간 표시
+    - todo.js : to do 등록/삭제, localStorage 저장/가져오기
+    - quotes.js : 랜덤 명언 표시
+    - background.js : 랜덤 배경 이미지 표시
+    - weather.js : 위치 정보 확인, API를 통해 현 위치의 날씨 가져오기
+- index.html
+
+## javascript for beginners
 
 basic data types
 - number
@@ -49,8 +64,6 @@ conditionals
 - if () {}
   else if () {}
   else {}
-
----
 
 searching for elements
 - getElementById()
