@@ -64,3 +64,15 @@ events
     - title.addEventListener("click", handleTitleClicked)
 - element.onclick = event
     - title.onclick = handleTitleClicked
+
+interval
+- setInterval(function, ms): ms마다 function을 호출
+    - setInterval(sayHello, 5000): 5초마다 sayHello 호출
+- setTimeout(function, ms): ms 후 function 1회 호출
+    - setTimeout(sayHello, 5000): 5초 후 sayHello 호출
+
+math
+- Math.random() : 0 ~ 1미만의 랜덤한 숫자 생성
+- Math.round() : 반올림
+- Math.ceil() : 높임
+- Math.floor() : 내림
